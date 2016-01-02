@@ -1,0 +1,256 @@
+{
+    "song-name": "初音ミクの消失 Demo ver",
+    "song-info": "词曲：cosMo@暴走P\nアレンジ：Eana Hufwe\nPV: Eana Hufwe",
+    "ruby-style": "space-between",
+    "video": {
+        "width": 1024,
+        "height": 768
+    },
+    "offset": 0,
+    "prepend": 2000,
+    "append": 1000,
+    "fade-in": true,
+    "fade-out": true,
+    "font": {
+        "font-family": "Source Han Sans JP",
+        "font-variant": "Normal",
+        "font-size": 20,
+        "ruby-family": "Source Han Sans JP",
+        "ruby-variant": "Normal",
+        "ruby-size": 10,
+        "ruby-margin-bottom": 10
+    },
+    "padding": {
+        "bottom": 10,
+        "left": 10,
+        "right": 10
+    },
+    "styles": {
+        "miku": {
+            "mode": "normal",
+            "before-border": "000000ff", 
+            "before-shadow": "ffffff00",
+            "before-color": "0000ffff",
+            "after-border": "0000ffff",
+            "after-shadow": "00000000",
+            "after-color": "ffffffff"
+        },
+        "tianyi": {
+            "mode": "normal",
+            "before-border": "000000ff",
+            "before-shadow": "ffffff00",
+            "before-color": "66ccffff",
+            "after-border": "66ccffff",
+            "after-shadow": "00000000",
+            "after-color": "ffffffff"
+        }
+    },
+    "screens": [
+        { 
+            "line-count": 2,
+            "lines": [
+                [ 
+                    {
+                        "char": "信",
+                        "style": "miku",
+                        "begin": 1300, 
+                        "end": 1500,
+                        "ruby": [
+                            {
+                                "char": "し",
+                                "begin": 1300,
+                                "end": 1340
+                            },
+                            {
+                                "char": "ん",
+                                "begin": 1340,
+                                "end": 1350
+                            }
+                        ]
+                    },
+                    {
+                        "char": "じ",
+                        "style": "miku",
+                        "begin": 1500, 
+                        "end": 1600,
+                        "ruby": []
+                    },
+                    {
+                        "char": "た",
+                        "style": "miku",
+                        "begin": 1600, 
+                        "end": 1700,
+                        "ruby": []
+                    },
+                    {
+                        "char": "も",
+                        "style": "miku",
+                        "begin": 1700, 
+                        "end": 1800,
+                        "ruby": []
+                    },
+                    {
+                        "char": "の",
+                        "style": "miku",
+                        "begin": 1800, 
+                        "end": 1900,
+                        "ruby": []
+                    },
+                    {
+                        "char": "は",
+                        "style": "miku",
+                        "begin": 1900, 
+                        "end": 2000,
+                        "ruby": []
+                    }
+                ],
+                [ 
+                    {
+                        "char": "都合",
+                        "style": "miku",
+                        "begin": 2300, 
+                        "end": 2500,
+                        "ruby": [
+                            {
+                                "char": "つ",
+                                "begin": 2300,
+                                "end": 2340
+                            },
+                            {
+                                "char": "ごう",
+                                "begin": 2340,
+                                "end": 2500
+                            }
+                        ]
+                    },
+                    {
+                        "char": "の",
+                        "style": "miku",
+                        "begin": 2500, 
+                        "end": 2600,
+                        "ruby": []
+                    },
+                    {
+                        "char": "い",
+                        "style": "miku",
+                        "begin": 2600, 
+                        "end": 2700,
+                        "ruby": []
+                    },
+                    {
+                        "char": "い",
+                        "style": "miku",
+                        "begin": 2700, 
+                        "end": 2800,
+                        "ruby": []
+                    },
+                    {
+                        "char": "妄",
+                        "style": "miku",
+                        "begin": 2800, 
+                        "end": 2900,
+                        "ruby": [
+                            {
+                                "char": "も",
+                                "begin": 2800,
+                                "end": 2850
+                            },
+                            {
+                                "char": "う",
+                                "begin": 2850,
+                                "end": 2900
+                            }
+
+                        ]
+                    },
+                    {
+                        "char": "想",
+                        "style": "miku",
+                        "begin": 2900, 
+                        "end": 3000,
+                        "ruby": [
+                            {
+                                "char": "そ",
+                                "begin": 2900,
+                                "end": 2950
+                            },
+                            {
+                                "char": "う",
+                                "begin": 2950,
+                                "end": 3000
+                            }
+
+                        ]
+                    },
+                    {
+                        "char": "を",
+                        "style": "miku",
+                        "begin": 3000, 
+                        "end": 3100,
+                        "ruby": []
+                    }
+                ]
+            ]
+        },
+        { 
+            "line-count": 1,
+            "lines": [
+                [ 
+                    {
+                        "char": "信",
+                        "style": "miku",
+                        "begin": 1300, 
+                        "end": 1500,
+                        "ruby": [
+                            {
+                                "char": "し",
+                                "begin": 1300,
+                                "end": 1340
+                            },
+                            {
+                                "char": "ん",
+                                "begin": 1340,
+                                "end": 1350
+                            }
+                        ]
+                    },
+                    {
+                        "char": "じ",
+                        "style": "miku",
+                        "begin": 1500, 
+                        "end": 1600,
+                        "ruby": []
+                    },
+                    {
+                        "char": "た",
+                        "style": "miku",
+                        "begin": 1600, 
+                        "end": 1700,
+                        "ruby": []
+                    },
+                    {
+                        "char": "も",
+                        "style": "miku",
+                        "begin": 1700, 
+                        "end": 1800,
+                        "ruby": []
+                    },
+                    {
+                        "char": "の",
+                        "style": "miku",
+                        "begin": 1800, 
+                        "end": 1900,
+                        "ruby": []
+                    },
+                    {
+                        "char": "は",
+                        "style": "miku",
+                        "begin": 1900, 
+                        "end": 2000,
+                        "ruby": []
+                    }
+                ]
+            ]
+        }
+    ]
+}
